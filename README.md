@@ -17,5 +17,11 @@
   * Soccer
   * Volleyball
   * American Football
+  
+  Facts about me  
+Im 16 years old and Im a Junior at TELE!  
+I have a little brother who is in 6th grade and also learning Software Enginneering.   
+I enjoy dancing and spending time with my family on the weekends.  
+My favorite Subject is English.
    
 [Visit my Site to check out more Projects I have done throughout my Junior Year! ](https://sites.google.com/a/hstat.org/mariac7185sep11/)
