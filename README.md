@@ -3,7 +3,7 @@
 ---
 ####High School of Telecommunication Arts and Technology
 **Schedule**  
-1. U.S History  
+1. U.S History 1 
 2. Gym  
 3. English   
 4. AP Spanish  
